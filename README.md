@@ -100,7 +100,7 @@ Works really well with the [Sublime SFTP Package](http://wbond.net/sublime_packa
 
 ####Setting up Wi-Fi for your network
 
-If you have a network called Something that has a password Otherthing you can set up that your pi to connect to that network by simply adding the following block to the interfaces file. If you wanted to connect to the itpsandbox this is where you would put the network name and password in. (*You will have to registed the MAC address with NYU, more infor on that in Matts tutorial reference above*)
+If you have a network called Something that has a password Otherthing you can set up that your pi to connect to that network by simply adding the folvocolowing block to the interfaces file. If you wanted to connect to the itpsandbox this is where you would put the network name and password in. (*You will have to registed the MAC address with NYU, more infor on that in Matts tutorial reference above*)
 
 ```
 auto wlan0
@@ -128,6 +128,7 @@ In order for this to work you have to first log on to the Pi and creat the folde
 
 ##Resources
 [Installing img on SD card](http://www.raspberrypi.org/documentation/installation/installing-images)
+
 [Remote Access](http://www.raspberrypi.org/documentation/remote-access/README.md)
 
 [Installing node on the RPi](https://www.adafruit.com/blog/2014/06/13/installing-and-using-node-js-on-raspberry-pi/)
